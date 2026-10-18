@@ -26,7 +26,7 @@
 - Instant Win
 - Global Speed
 - Auto Loot Goods
-- Train Spees
+- Train Speed
 
 ## Misc
 
